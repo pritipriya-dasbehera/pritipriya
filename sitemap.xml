@@ -7,10 +7,10 @@
         <loc>https://pritipriya-dasbehera.github.io/categories/</loc>
     </url>
     <url>
-        <loc>https://pritipriya-dasbehera.github.io/categories/sample-post/</loc>
+        <loc>https://pritipriya-dasbehera.github.io/categories/technical/</loc>
     </url>
     <url>
-        <loc>https://pritipriya-dasbehera.github.io/categories/sample-post/page/1/</loc>
+        <loc>https://pritipriya-dasbehera.github.io/categories/technical/page/1/</loc>
     </url>
     <url>
         <loc>https://pritipriya-dasbehera.github.io/docs/</loc>
@@ -23,21 +23,27 @@
     </url>
     <url>
         <loc>https://pritipriya-dasbehera.github.io/posts/post-0/</loc>
-        <lastmod>2018-08-20</lastmod>
+        <lastmod>2024-06-13</lastmod>
     </url>
     <url>
         <loc>https://pritipriya-dasbehera.github.io/tags/</loc>
     </url>
     <url>
-        <loc>https://pritipriya-dasbehera.github.io/tags/lorem/</loc>
+        <loc>https://pritipriya-dasbehera.github.io/tags/github/</loc>
     </url>
     <url>
-        <loc>https://pritipriya-dasbehera.github.io/tags/lorem/page/1/</loc>
+        <loc>https://pritipriya-dasbehera.github.io/tags/github/page/1/</loc>
     </url>
     <url>
-        <loc>https://pritipriya-dasbehera.github.io/tags/post/</loc>
+        <loc>https://pritipriya-dasbehera.github.io/tags/website/</loc>
     </url>
     <url>
-        <loc>https://pritipriya-dasbehera.github.io/tags/post/page/1/</loc>
+        <loc>https://pritipriya-dasbehera.github.io/tags/website/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://pritipriya-dasbehera.github.io/tags/zola/</loc>
+    </url>
+    <url>
+        <loc>https://pritipriya-dasbehera.github.io/tags/zola/page/1/</loc>
     </url>
 </urlset>

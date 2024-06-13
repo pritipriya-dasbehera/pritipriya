@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://pritipriya-dasbehera.github.io//sitemap.xml
+Sitemap: https://pritipriya-dasbehera.github.io/sitemap.xml
