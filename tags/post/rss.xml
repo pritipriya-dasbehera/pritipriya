@@ -2,19 +2,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
       <title>Pritipriya Dasbehera - post</title>
-      <link>https://deepthought-theme.netlify.app</link>
+      <link>https://pritipriya-dasbehera.github.io/</link>
       <description>A simple blog theme focused on writing powered by Bulma and Zola</description>
       <generator>Zola</generator>
       <language>en</language>
-      <atom:link href="https://deepthought-theme.netlify.app/tags/post/rss.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://pritipriya-dasbehera.github.io/tags/post/rss.xml" rel="self" type="application/rss+xml"/>
       <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
       <item>
           <title>Zeroth Post</title>
           <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
           <author>Unknown</author>
-          <link>https://deepthought-theme.netlify.app/posts/post-0/</link>
-          <guid>https://deepthought-theme.netlify.app/posts/post-0/</guid>
-          <description xml:base="https://deepthought-theme.netlify.app/posts/post-0/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac iaculis libero. Suspendisse et sodales tellus, ut sodales mi. Proin scelerisque est nec laoreet aliquet. Aenean et nunc at mi efficitur sollicitudin at quis diam. Aenean mi massa, sollicitudin eu condimentum sed, sodales ut nisi. Aenean iaculis ante id gravida hendrerit. Nulla nisi neque, facilisis vitae viverra ac, interdum malesuada quam. Quisque laoreet leo nec lectus lacinia, in lacinia enim tempor.&lt;&#x2F;p&gt;
+          <link>https://pritipriya-dasbehera.github.io/posts/post-0/</link>
+          <guid>https://pritipriya-dasbehera.github.io/posts/post-0/</guid>
+          <description xml:base="https://pritipriya-dasbehera.github.io/posts/post-0/">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ac iaculis libero. Suspendisse et sodales tellus, ut sodales mi. Proin scelerisque est nec laoreet aliquet. Aenean et nunc at mi efficitur sollicitudin at quis diam. Aenean mi massa, sollicitudin eu condimentum sed, sodales ut nisi. Aenean iaculis ante id gravida hendrerit. Nulla nisi neque, facilisis vitae viverra ac, interdum malesuada quam. Quisque laoreet leo nec lectus lacinia, in lacinia enim tempor.&lt;&#x2F;p&gt;
 </description>
       </item>
     </channel>
